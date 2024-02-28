@@ -1,1 +1,6 @@
-# ope-apoloni
+
+### Installation
+```
+npm install
+
+```
